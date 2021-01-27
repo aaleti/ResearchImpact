@@ -10,6 +10,7 @@ The Australian Research Council (ARC) defines research impact as "Research impac
 
 Research impact should not be confused with research results or outcomes, which are means to achive impact. The ARC created a Research Impact Pathway Table, shown below, which provides high level examples from the research pipeline
 
+!()[policy_research_impact_pathway_table.png]
 
 
 In order to create impact you need inputs (people, funding, equipment, existing knowledge),  activities (interviews, simulations, tests), outputs (data sets, publications) and outcomes/results (citations, uptake of methodologies, theory, paradigm shift). Impact itself is the bigger change that follows the input, activity, output and outcome. For example, new technologies or discoveries in medicine that have lead to revolutionary changes in the way the world works or treatment of illnesses, such as the invention of batteries or discovery and development of a new drug to cure a deadly disease.
