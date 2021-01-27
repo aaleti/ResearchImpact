@@ -3,7 +3,9 @@
 
 It is often asked from us as researchers to demonstrate the impact of our research. Research impact is vaguely defined in various sources and documents, and many academics (and in particular, early career researchers) find it hard to showcase and measure how their research benefits society. This living document, which will be continuously revised to reflect evolving consensus around research impact and its measures, can be used to guide researchers in showcasing, measuring and maximising research impact.
 
-We warmly encourage and welcome your input and feedback on this document, so please feel free to issue a pull request on the repo, start an issue, or e-mail us directly.
+```diff 
++ We warmly encourage and welcome your input and feedback on this document, so please feel free to issue a pull request on the repo, start an issue, or e-mail us directly.
+```
 
 # What is research impact?
 
