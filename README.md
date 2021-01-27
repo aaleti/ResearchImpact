@@ -67,5 +67,10 @@ Altmetrics measure the impact of publications (e.g. articles, books) in social m
 - courses/seminars organized based on research results 
 - participation in committees, councils and working groups (incl. in companies), parliamentary hearings.
 
+## Qualitative Indicators
+
+One of the most effective qualitative tools to showcase the impact of your research is a narrative, such as case studies or impact stories (see reference 2 for examples) describing how your research has benefited the society, economy, culture or environment. Impact stories should, as much as possible, be supported with data and quantitative indicators. 
+
 # Suggested Reading and References
-- https://www.oulu.fi/impacthelper
+ 1. https://www.oulu.fi/impacthelper
+ 2. https://info.lse.ac.uk/staff/services/knowledge-exchange-and-impact/Assets/Documents/PDF/Toolkit/7-How-to-Tell-Your-Impact-Story.pdf
