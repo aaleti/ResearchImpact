@@ -28,7 +28,7 @@ Research is often conducted in collaboration with other researchers or parties o
 
 Impactful research and solving global challenges require partnerships between many parties. When recognizing the link between your research and relevant partners, you may also be able to identify new stakeholders for your research, e.g., NGOs or policy makers who may be interested in your research results. We can broadly categorise potential stakeholders as follows:
 
-- **c*: consists of other researchers in your field or other relevant fields of science that may benefit from your research. This category also includes various research organisations and students. 
+- **Scientific community**: consists of other researchers in your field or other relevant fields of science that may benefit from your research. This category also includes various research organisations and students. 
 
 - **Policy and decision-makers**: this includes ministries, councils, state government, authorities, special interets groups and standardisation & regulation bodies. 
 
