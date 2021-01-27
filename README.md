@@ -8,7 +8,7 @@ We warmly encourage and welcome your input and feedback on this document, so ple
 # What is research impact?
 
 The Australian Research Council (ARC) defines research impact as 
-> Research impact is the contribution that research makes to the economy, society, environment or culture, beyond the contribution to academic research [4]. 
+> Research impact is the contribution that research makes to the economy, society, environment or culture, beyond the contribution to academic research [5]. 
 
 Other definitions of research impact do not specifically exclude the research community. For example, in Horizon 2020, the biggest research funding programme in the world, impact is defined as follows: 
 
@@ -87,6 +87,7 @@ One of the most effective qualitative tools to showcase the impact of your resea
  2. https://info.lse.ac.uk/staff/services/knowledge-exchange-and-impact/Assets/Documents/PDF/Toolkit/7-How-to-Tell-Your-Impact-Story.pdf
  3. https://www.altmetric.com
  4. https://ec.europa.eu/research/horizon2020/pdf/proposals/horizon_2020_impact_assessment_report.pdf
+ 5. https://www.arc.gov.au/policies-strategies/strategy/research-impact-principles-framework
  
  
  # Exemplars
