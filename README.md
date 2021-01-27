@@ -19,7 +19,9 @@ Research impact should not be confused with research results or outcomes. To con
 ## Examples
 
 - The invention of a new Machine Learning approach that detects diabetes from blood samples.
-- other?
+```diff 
++ please send us your examples
+```
 
 
 # Stakeholders
