@@ -8,13 +8,15 @@ We warmly encourage and welcome your input and feedback on this document, so ple
 # What is research impact?
 
 The Australian Research Council (ARC) defines research impact as 
-> Research impact is the contribution that research makes to the economy, society, environment or culture, beyond the contribution to academic research. (https://www.arc.gov.au/policies-strategies/strategy/research-impact-principles-framework). 
+> Research impact is the contribution that research makes to the economy, society, environment or culture, beyond the contribution to academic research [4]. 
 
 Other definitions of research impact do not specifically exclude the research community. For example, in Horizon 2020, the biggest research funding programme in the world, impact is defined as follows: 
 
 > Impact broadly defines the wider societal, economic or environmental cumulative changes over a longer period of time. 
 
-Research impact should not be confused with research results or outcomes. To conduct the research, we need input (people, funding, infastructure, existing knowledge). The research involves a set of activities (research work and training, community and stakeholder engagement, simulations, tests), which result in outputs (policy briefings, media, data sets, publications) and outcomes (commercial products, citations, uptake of methodologies, theory, paradigm shift, job creation, new companies, etc.). Impact itself is the significant change that follows the input, activity, output and outcome. For example, new technologies or discoveries in software engineering that have lead to revolutionary changes in the way we build software, such as the invention of an automated approach that verifies self-driving cars. Other examples of impact are as follows:
+Research impact should not be confused with research results or outcomes. To conduct the research, we need input (people, funding, infastructure, existing knowledge). The research involves a set of activities (research work and training, community and stakeholder engagement, simulations, tests), which result in outputs (policy briefings, media, data sets, publications) and outcomes (commercial products, citations, uptake of methodologies, theory, paradigm shift, job creation, new companies, etc.). Impact itself is the significant change that follows the input, activity, output and outcome. For example, new technologies or discoveries in software engineering that have lead to revolutionary changes in the way we build software, such as the invention of an automated approach that verifies self-driving cars. 
+
+## Examples
 
 - The invention of a new Machine Learning approach that detects diabetes from blood samples.
 - other?
@@ -52,7 +54,7 @@ Traditionally, the number of publications and citations have been used as the pr
 
 ### Altmetrics
 
-Altmetrics measure the impact of publications (e.g. articles, books) in social media and other social networking services by tracking for example 
+Altmetrics [3] measure the impact of publications (e.g. articles, books) in social media and other social networking services by tracking for example 
 - the number of downloads, 
 - mentions on news sites, 
 - tweets, 
@@ -75,8 +77,10 @@ Altmetrics demonstrate the impact of publications quicker than traditional citat
 One of the most effective qualitative tools to showcase the impact of your research is a narrative, such as case studies or impact stories (see reference 2 for examples) describing how your research has benefited the society, economy, culture or environment. Impact stories should, as much as possible, be supported with data and quantitative indicators. 
 
 # Suggested Reading and References
- 1. https://www.oulu.fi/impacthelper
- 2. https://info.lse.ac.uk/staff/services/knowledge-exchange-and-impact/Assets/Documents/PDF/Toolkit/7-How-to-Tell-Your-Impact-Story.pdf
+ [1] https://www.oulu.fi/impacthelper
+ [2] https://info.lse.ac.uk/staff/services/knowledge-exchange-and-impact/Assets/Documents/PDF/Toolkit/7-How-to-Tell-Your-Impact-Story.pdf
+ [3] https://www.altmetric.com
+ 
  
  # Exemplars
  
