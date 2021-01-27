@@ -56,8 +56,7 @@ Altmetrics measure the impact of publications (e.g. articles, books) in social m
 - the number of downloads, 
 - mentions on news sites, 
 - tweets, 
-- likes and 
-- traditional citations.
+- likes
 
 Altmetrics demonstrate the impact of publications quicker than traditional citation-based metrics. Tweets and mentions on sites have the potential to accumulate very quickly after publication, whereas citations take months, and sometimes years. 
 
