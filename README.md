@@ -78,7 +78,7 @@ One of the most effective qualitative tools to showcase the impact of your resea
  1. https://www.oulu.fi/impacthelper
  2. https://info.lse.ac.uk/staff/services/knowledge-exchange-and-impact/Assets/Documents/PDF/Toolkit/7-How-to-Tell-Your-Impact-Story.pdf
  
- # Appendix
+ # Exemplars
  
  An example of indicators for measuring scientific, societal and economic impact is the one by Horizon Europe, which is used to report the impact of the funding program.
  
