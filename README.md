@@ -38,4 +38,5 @@ Impactful research and solving global challenges require partnerships between ma
 - **End-users**: refer to citizens, consumers, NGO's (third sector), communities, museums etc. 
 
 
-
+# Suggested Reading and References
+- https://www.oulu.fi/impacthelper
