@@ -37,6 +37,35 @@ Impactful research and solving global challenges require partnerships between ma
 
 # Measuring Impact
 
+## Quantitative Indicators
+
+### Bibliometrics
+
+- number of publications 
+- quality of publications, i.e.  Impact Factor value 
+- visibility of publications, i.e. the number of publications in citation databases (Scopus and Web of Science) 
+- impact of publications, i.e. the number of citations they have received 
+- researcher's H-index 
+- researcher's cooperation network, i.e. the number of co-authors and affiliated organizations in publications
+
+### Altmetrics
+
+Altmetrics measure the impact of publications (e.g. articles, books) in social media and other social networking services by tracking for example 
+- the number of downloads, 
+- mentions on news sites, 
+- tweets, 
+- likes and 
+- traditional citations.
+
+### Other measure of impact
+
+- IPRs, patents, spin offs, new products, new jobs 
+- seminars/workshop organised 
+- appearances in social media/press 
+- stakeholder contacts 
+- International funding applications by the consortium and its researchers 
+- courses/seminars organized based on research results 
+- participation in committees, councils and working groups (incl. in companies), parliamentary hearings.
 
 # Suggested Reading and References
 - https://www.oulu.fi/impacthelper
