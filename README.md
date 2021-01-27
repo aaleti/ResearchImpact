@@ -19,9 +19,6 @@ Research impact should not be confused with research results or outcomes, which 
 - The invention of a new Machine Learning approach that detects diabetes from blood samples.
 - other?
 
-# Measuring Impact
-
-
 
 # Stakeholders
 
@@ -40,3 +37,5 @@ Impactful research and solving global challenges require partnerships between ma
 
 # Suggested Reading and References
 - https://www.oulu.fi/impacthelper
+
+# Measuring Impact
