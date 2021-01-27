@@ -22,7 +22,7 @@ Research impact should not be confused with research results or outcomes. To con
 
 # Stakeholders
 
-Research is often conducted in collaboration with other researchers or parties outside the scientific community. This collaboration could involved technology, data, access to facilities and test subjects, interviewees or patients. These collaborators may not only provide valuable resources needed to carry out the research, but can also benefit from the outcomes of the research directly. These collaborators, partners or customers are often called stakeholders.  
+Research is often conducted in collaboration with other researchers or parties outside the scientific community. This collaboration could involved technology, data, access to facilities and test subjects, interviewees or patients. These collaborators may not only provide valuable resources needed to carry out the research, but can also benefit from the outcomes of the research directly. We refer to these collaborators, partners or customers as stakeholders.  
 
 Impactful research and solving global challenges require partnerships between many parties. When recognizing the link between your research and relevant partners, you may also be able to identify new stakeholders for your research. Could there be NGOs or policy makers who would be interested in your research results? We can broadly categorise potential stakeholders as follows:
 
