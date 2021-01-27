@@ -37,6 +37,8 @@ Impactful research and solving global challenges require partnerships between ma
 
 # Measuring Impact
 
+Traditionally, the number of publications and citations have been used as the primary indicators to evaluate research impact. These traditional metrics, however, do not present a complete picture of research impact. Measuring research impact is hard because of its complex nature: impact is the sum of incremental changes that happen over a long period of time, and is often impossible to say which results lead to which changes. The list of metrics below can be used to measure some aspects of impact.
+
 ## Quantitative Indicators
 
 ### Bibliometrics
@@ -56,6 +58,8 @@ Altmetrics measure the impact of publications (e.g. articles, books) in social m
 - tweets, 
 - likes and 
 - traditional citations.
+
+Altmetrics demonstrate the impact of publications quicker than traditional citation-based metrics. Tweets and mentions on sites have the potential to accumulate very quickly after publication, whereas citations take months, and sometimes years. 
 
 ### Other measure of impact
 
