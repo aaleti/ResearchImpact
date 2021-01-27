@@ -61,7 +61,7 @@ Altmetrics measure the impact of publications (e.g. articles, books) in social m
 
 Altmetrics demonstrate the impact of publications quicker than traditional citation-based metrics. Tweets and mentions on sites have the potential to accumulate very quickly after publication, whereas citations take months, and sometimes years. 
 
-### Other measure of impact
+### Other measures of impact
 
 - IPRs, patents, spin offs, new products, new jobs 
 - seminars/workshop organised 
@@ -78,3 +78,9 @@ One of the most effective qualitative tools to showcase the impact of your resea
 # Suggested Reading and References
  1. https://www.oulu.fi/impacthelper
  2. https://info.lse.ac.uk/staff/services/knowledge-exchange-and-impact/Assets/Documents/PDF/Toolkit/7-How-to-Tell-Your-Impact-Story.pdf
+ 
+ # Appendix
+ 
+ An example of indicators for measuring scientific, societal and economic impact is the one by Horizon Europe, which is used to report the impact of the funding program.
+ 
+ 
