@@ -83,4 +83,5 @@ One of the most effective qualitative tools to showcase the impact of your resea
  
  An example of indicators for measuring scientific, societal and economic impact is the one by Horizon Europe, which is used to report the impact of the funding program.
  
+ ![alt text](https://github.com/aaleti/ResearchImpact/blob/main/HEU%20indicators_0.png?raw=true)
  
