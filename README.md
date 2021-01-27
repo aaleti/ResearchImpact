@@ -77,9 +77,9 @@ Altmetrics demonstrate the impact of publications quicker than traditional citat
 One of the most effective qualitative tools to showcase the impact of your research is a narrative, such as case studies or impact stories (see reference 2 for examples) describing how your research has benefited the society, economy, culture or environment. Impact stories should, as much as possible, be supported with data and quantitative indicators. 
 
 # Suggested Reading and References
- [1]. https://www.oulu.fi/impacthelper
- [2]. https://info.lse.ac.uk/staff/services/knowledge-exchange-and-impact/Assets/Documents/PDF/Toolkit/7-How-to-Tell-Your-Impact-Story.pdf
- [3]. https://www.altmetric.com
+ 1. https://www.oulu.fi/impacthelper
+ 2. https://info.lse.ac.uk/staff/services/knowledge-exchange-and-impact/Assets/Documents/PDF/Toolkit/7-How-to-Tell-Your-Impact-Story.pdf
+ 3. https://www.altmetric.com
  
  
  # Exemplars
