@@ -1,5 +1,5 @@
 
-# Purpose of this document
+# The purpose of this document
 
 It is often asked from us as researchers to demonstrate the impact of our research. Research impact is vaguely defined in various sources and documents, and many academics (and in particular, early career researchers) find it hard to showcase and measure how their research benefits society. This living document, which will be continuously revised to reflect evolving consensus around research impact and its measures, can be used to guide researchers in showcasing, measuring and maximising research impact.
 
