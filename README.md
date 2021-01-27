@@ -12,7 +12,7 @@ The Australian Research Council (ARC) defines research impact as
 
 Other definitions of research impact do not specifically exclude the research community. For example, in Horizon 2020, the biggest research funding programme in the world, impact is defined as follows: 
 
-> Impact broadly defines the wider societal, economic or environmental cumulative changes over a longer period of time. 
+> Impact broadly defines the wider societal, economic or environmental cumulative changes over a longer period of time [4]. 
 
 Research impact should not be confused with research results or outcomes. To conduct the research, we need input (people, funding, infastructure, existing knowledge). The research involves a set of activities (research work and training, community and stakeholder engagement, simulations, tests), which result in outputs (policy briefings, media, data sets, publications) and outcomes (commercial products, citations, uptake of methodologies, theory, paradigm shift, job creation, new companies, etc.). Impact itself is the significant change that follows the input, activity, output and outcome. For example, new technologies or discoveries in software engineering that have lead to revolutionary changes in the way we build software, such as the invention of an automated approach that verifies self-driving cars. 
 
@@ -80,6 +80,7 @@ One of the most effective qualitative tools to showcase the impact of your resea
  1. https://www.oulu.fi/impacthelper
  2. https://info.lse.ac.uk/staff/services/knowledge-exchange-and-impact/Assets/Documents/PDF/Toolkit/7-How-to-Tell-Your-Impact-Story.pdf
  3. https://www.altmetric.com
+ 4. https://ec.europa.eu/research/horizon2020/pdf/proposals/horizon_2020_impact_assessment_report.pdf
  
  
  # Exemplars
