@@ -83,7 +83,7 @@ Altmetrics demonstrate the impact of publications quicker than traditional citat
 - International funding applications by the consortium and its researchers 
 - courses/seminars organized based on research results 
 - participation in committees, councils and working groups (incl. in companies), parliamentary hearings.
-- keynote invitations, talks at conferences/seminars
+- keynote invitations, invited talks at conferences/seminars
 
 ## Qualitative Indicators
 
