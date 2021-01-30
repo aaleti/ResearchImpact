@@ -1,5 +1,6 @@
 
-# Describing the impact of Computer Science research (including Software Systems and Cybersecurity, Human-Centred Computing, and Data Science and AI)
+# Describing the impact of Computer Science research 
+## including Software Systems and Cybersecurity, Human-Centred Computing, and Data Science and AI
 
 Measuring research impact is hard because of its complex nature: impact is the sum of incremental changes that happen over a long period of time, and is often impossible to say which results lead to which changes. 
 
