@@ -12,7 +12,7 @@ This living document, which will be continuously revised to reflect evolving con
 + so please feel free to issue a pull request on the repo, start an issue, or e-mail us directly.
 ```
 
-# What is research impact?
+## What is research impact?
 
 The Australian Research Council (ARC) defines research impact as 
 > Research impact is the contribution that research makes to the economy, society, environment or culture, beyond the contribution to academic research [5]. 
@@ -31,7 +31,7 @@ Research impact should not be confused with research results or outcomes. To con
 ```
 
 
-# Stakeholders
+## Stakeholders
 
 Research is often conducted in collaboration with other researchers or parties outside the scientific community. This collaboration could involved technology, data, access to facilities and test subjects, interviewees or patients. These collaborators may not only provide valuable resources needed to carry out the research, but can also benefit from the outcomes of the research directly. We refer to these collaborators, partners or customers as stakeholders.  
 
@@ -46,7 +46,7 @@ Impactful research and solving global challenges require partnerships between ma
 - **End-users**: refer to citizens, consumers, NGO's (third sector), communities, museums etc. 
 
 
-# Measuring Impact
+## Measuring Impact
 
 Traditionally, the number of publications and citations have been used as the primary indicators to evaluate research impact. These traditional metrics, however, do not present a complete picture of research impact. The list of metrics below can be used to measure some aspects of impact.
 
@@ -90,7 +90,7 @@ Altmetrics demonstrate the impact of publications quicker than traditional citat
 
 One of the most effective qualitative tools to showcase the impact of your research is a narrative, such as case studies or impact stories (see reference 2 for examples) describing how your research has benefited the society, economy, culture or environment. Impact stories should, as much as possible, be supported with data and quantitative indicators. 
 
-# How about the impact of theoretical work?
+## How about the impact of theoretical work?
 
 
 # Suggested Reading and References
