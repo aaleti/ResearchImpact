@@ -25,7 +25,9 @@ Research impact should not be confused with research results or outcomes. To con
 
 ## Examples
 
-- The invention of a new Machine Learning approach that detects diabetes from blood samples.
+- The climate crisis and the electricity grid: AI to the rescue, https://lens.monash.edu/2021/05/19/1383175/the-climate-crisis-and-the-electricity-grid-ai-to-the-rescue
+-- The work spun out of the Grid Innovation Hub in 2018 and is now a product/service offered by Worley to forecast wind-farm output better on a 5 minute horizon to enable AEMO to better schedule the rest of the fleet of generators and batteries.
+
 ```diff 
 + please send us your examples
 ```
