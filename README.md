@@ -101,6 +101,7 @@ One of the most effective qualitative tools to showcase the impact of your resea
  3. https://www.altmetric.com
  4. https://ec.europa.eu/research/horizon2020/pdf/proposals/horizon_2020_impact_assessment_report.pdf
  5. https://www.arc.gov.au/policies-strategies/strategy/research-impact-principles-framework
+ 6. A Comparative Review of How the Policy and Procedures to Assess Research Impact Evolved in Australia and the UK https://www.repository.cam.ac.uk/bitstream/handle/1810/273745/Kate%20Williams%20-%20Research%20Evaluation.pdf?sequence=3
  
  
  # Exemplars
