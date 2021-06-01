@@ -2,7 +2,12 @@
 # Describing the impact of Computer Science research 
 ## including Software Systems and Cybersecurity, Human-Centred Computing, and Data Science and AI
 
-Measuring research impact is hard because of its complex nature: impact is the sum of incremental changes that happen over a long period of time, and is often impossible to say which results lead to which changes. 
+The way research is assessed impacts the kind of knowledge that is valued, incentivized, and rewarded.
+An increasingly important element of research assessment is the measurement of the wider impact of research (e.g. benefit to society, culture or economy)
+There is now explicit recognition that the purpose of existing research evaluation systems is not only to assess quality but to incentivise researchers and universities towards new research processes and outcomes that benefit society.
+
+
+Measuring research impact, however is hard because of its complex nature: impact is the sum of incremental changes that happen over a long period of time, and is often impossible to say which results lead to which changes. 
 
 
 This living document, which will be continuously revised to reflect evolving consensus around research impact and its measures, can be used to guide researchers in showcasing, measuring and maximising research impact.
@@ -26,7 +31,6 @@ Research impact should not be confused with research results or outcomes. To con
 ## Examples
 
 - The climate crisis and the electricity grid: AI to the rescue, https://lens.monash.edu/2021/05/19/1383175/the-climate-crisis-and-the-electricity-grid-ai-to-the-rescue
--- The work spun out of the Grid Innovation Hub in 2018 and is now a product/service offered by Worley to forecast wind-farm output better on a 5 minute horizon to enable AEMO to better schedule the rest of the fleet of generators and batteries.
 
 ```diff 
 + please send us your examples
